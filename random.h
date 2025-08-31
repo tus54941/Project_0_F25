@@ -1,0 +1,1 @@
+void rand_string(char *string, size_t length);
